@@ -10,8 +10,8 @@ import {
 const navigation = {
   categories: [
     {
-      id: "women",
-      name: "Women",
+      id: "accesories",
+      name: "Accesories",
       featured: [
         {
           name: "New Arrivals",
@@ -72,8 +72,8 @@ const navigation = {
       ],
     },
     {
-      id: "men",
-      name: "Men",
+      id: "games",
+      name: "Games",
       featured: [
         {
           name: "New Arrivals",
